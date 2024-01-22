@@ -1,0 +1,12 @@
+What is tuple? Difference between list and tuple
+
+
+tuple : tuple which is a collection data type
+
+    which is contain similar and dis-similar data element
+
+    but tuple is an immutable (we can't change it value)
+
+
+list : list is a collection data type which is contain similar and dis similar data element
+    list is mutable , list is a orderable , list is a sequence of element , list is a indexable

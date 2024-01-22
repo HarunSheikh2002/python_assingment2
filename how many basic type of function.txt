@@ -1,0 +1,16 @@
+there are 2 steps to implement function 
+
+1) function defination : to define function 
+
+        syntax :
+
+        def  <funname>:
+            statement
+
+
+2) function calling : to call function
+
+
+        syntax :
+         
+        <funname>()
